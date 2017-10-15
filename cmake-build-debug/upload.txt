@@ -1,0 +1,152 @@
+Samsung
+Galaxy S7
+nightly
+14.1
+9 5 2017
+2560 1440
+lineage-14.1-20170509-nightly-herolte-signed.zip
+NO
+ARK
+Benefit A3
+nightly
+14.1
+11 5 2017
+1280 720
+lineage-14.1-20170511-nightly-peach-signed.zip
+NO
+BQ
+Aquaris M5
+nighly
+14.1
+11 5 2017
+1920 1080
+lineage-14.1-20170511-nightly-piccolo-signed.zip
+NO
+Google
+Nexus 6P
+nightly
+14.1
+8 5 2017
+2560 1440
+lineage-14.1-20170508-nightly-angler-signed.zip
+YES
+HTC
+One
+nightly
+14.1
+2 3 2017
+1920 1080
+lineage-14.1-20170302-nightly-m7vzw-signed.zip
+NO
+Huawei
+Honor 4X
+nightly
+14.1
+8 5 2017
+1280 720
+lineage-14.1-20170508-nightly-cherry-signed.zip
+NO
+Google
+Nexus 10
+nightly
+13
+13 5 2017
+1600 2560
+lineage-13.0-20170513-nightly-manta-signed.zip
+YES
+LG
+G5
+nightly
+14.1
+9 5 2017
+2560 1440
+lineage-14.1-20170509-nightly-h830-signed.zip
+YES
+LeEco
+LeMax 2
+nightly
+13
+13 5 2017
+2560 1440
+lineage-13.0-20170513-nightly-x2-signed.zip
+YES
+Motorola
+Droid 4
+nightly
+13
+13 5 2017
+960 540
+lineage-13.0-20170513-nightly-maserati-signed.zip
+YES
+Xiaomi
+Mi5
+nightly
+14.1
+9 5 2017
+1920 1080
+lineage-14.1-20170509-nightly-gemini-signed.zip
+NO
+Google
+Nexus 5X
+nightly
+14.1
+8 5 2017
+1920 1080
+lineage-14.1-20170508-nightly-bullhead-signed.zip
+YES
+OnePlus
+3T
+nightly
+14.1
+11 5 2017
+1920 1080
+lineage-14.1-20170511-nightly-oneplus3-signed.zip
+NO
+Samsung
+Galaxy S4
+nightly
+14.1
+10 5 2017
+1920 1080
+lineage-14.1-20170510-nightly-jfltexx-signed.zip
+YES
+Sony
+Xperia M
+nightly
+14.1
+27 4 2017
+854 480
+lineage-14.1-20170427-nightly-nicki-signed.zip
+YES
+Lenovo
+Vibe K5
+nightly
+14.1
+8 5 2017
+1920 1080
+lineage-14.1-20170508-nightly-A6020-signed.zip
+YES
+Motorola
+Razr
+nightly
+13
+13 5 2017
+1280 720
+lineage-13.0-20170513-nightly-umts_spyder-signed.zip
+YES
+YU
+Yuphoria
+nightly
+14.1
+10 5 2017
+720 1280
+lineage-14.1-20170510-nightly-lettuce-signed.zip
+YES
+Asus
+Zenfone 2
+nightly
+14.1
+12 5 2017
+1920 1080
+lineage-14.1-20170512-nightly-Z00A-signed.zip
+NO
